@@ -4,7 +4,7 @@
 * Data Scientist Intern on Autoglass 💙
 * Portuguese and English Speaker 🗣️
 * German in Progress 🌍
-* Studying Python, SQL, DAX and M 👩‍💻
+* Studying Python, SQL, DAX and M 📊
 * Yuumi Main 😸
 
 <div align="center">
