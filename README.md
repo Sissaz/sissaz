@@ -5,6 +5,7 @@
 * Portuguese and English Speaker 🗣️
 * German in Progress 🌍
 * Studying Python, SQL, DAX and M 👩‍💻
+* Yuumi Main 😸
 
 <div align="center">
   <img height="160rem" width="350px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
