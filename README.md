@@ -1,10 +1,10 @@
 
 # Hallo! Ich bin Sicilia, Willkommen! ✨
 
-* Data Scientist Intern on Autoglass 💙
-* Portuguese and English Speaker 🗣️
-* German in Progress 🌍
-* Studying Python, SQL, DAX and M 📊
+* Data Analyst Intern on Autoglass 💙
+* Portuguese and English Speaker 🌍
+* Deutsche Sprache 🔜
+* Studying Python, SQL, Big Data, R, Tableau  📊
 * Yuumi Main 😸
 
 <div align="center">
