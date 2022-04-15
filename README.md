@@ -22,8 +22,3 @@
 <br>
 </div>
 
-<div align="center">
-  
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3b5udpu362jwzc61zq0mvg9dw&count=1)
-  
-</div>
