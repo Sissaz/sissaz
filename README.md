@@ -1,7 +1,7 @@
 
 <div align="center">
  
-<p align="center"><a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964390394664218635/Sicilia.png" /></a></p>
+<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964390394664218635/Sicilia.png" /></a>
  
 </div>
 <br>
