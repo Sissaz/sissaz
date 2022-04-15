@@ -1,5 +1,13 @@
 
-## Hallo! Ich bin Sicilia, Willkommen! ✨
+<div align="center">
+ 
+<p align="center"><a href="https://github.com/Sissaz"> <img src="https://cdn.discordapp.com/attachments/589442956021465142/964390394664218635/Sicilia.png" /></a></p>
+ 
+</div>
+  
+<br>
+
+<br />
 
 * Data Analyst Intern on Autoglass 💙
 * Portuguese and English Speaker 🌍
