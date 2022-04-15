@@ -20,5 +20,12 @@
 
 <br />
 <br>
+  
+<div align="center">
+  
+  ![Snake animation](https://github.com/sissaz/sissaz/blob/output/github-contribution-grid-snake.svg)
+  
+  
+</div>
 </div>
 
