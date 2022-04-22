@@ -10,6 +10,7 @@
 * Data Analyst Intern on Autoglass 💙
 * Portuguese and English Speaker 🌍
 * Deutsche Sprache 🔜
+* Power BI Lover 💛
 * Studying Python, SQL, Big Data, R, Tableau  📊
 * Yuumi Main 😸
 
