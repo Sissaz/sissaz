@@ -15,10 +15,10 @@
 * Yuumi Main 😸
 
 <div align="center">
-  <img height="140rem" width="340px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="140rem" width="340px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
  </div>
  <div align="center"> 
-  <img height="160rem" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="160rem" width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
 <div align="center">
