@@ -27,8 +27,8 @@
 <div align="center">
 <br>
       <a href="https://www.linkedin.com/in/Siciliag" target="_blank"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/970920417105682492/linkedins.png" target="_blank"></a> 
-      <a href = "mailto:siciiliagiacomazza@gmail.com"><img width="16%" src="https://cdn.discordapp.com/attachments/589442956021465142/970921128761626654/gmail.png" target="_blank"></a>
-  <a href="https://instagram.com/sissagz" target="_blank"><img width="16%" src="https://cdn.discordapp.com/attachments/589442956021465142/970921128539357244/instagram.png" target="_blank"></a>
+      <a href = "mailto:siciiliagiacomazza@gmail.com"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/970921128761626654/gmail.png" target="_blank"></a>
+  <a href="https://instagram.com/sissagz" target="_blank"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/970921128539357244/instagram.png" target="_blank"></a>
 
 <br />
 <br>
