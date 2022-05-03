@@ -32,6 +32,11 @@
   
 <div align="center">
   
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sissaz.visitor-badge)
+ 
+</div>
+<div align="center">
+  
   ![Snake animation](https://github.com/sissaz/sissaz/blob/output/github-contribution-grid-snake.svg)
   
   
