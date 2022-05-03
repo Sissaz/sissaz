@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/Sissaz" > <img width="65%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970913396247629874/bio.png" /></a>
+ <a href="https://github.com/Sissaz" > <img width="60%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970916166694490182/bio.png" /></a>
 </div>
 <div align="center">
  <a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
