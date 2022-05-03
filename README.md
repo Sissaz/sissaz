@@ -1,18 +1,15 @@
-
-<div align="center">
- 
-<a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/964401865943035945/Sicilia_GRANDE.png" /></a>
- 
-</div>
-<br>
 <br />
 
-* Data Analyst Intern on Autoglass 💙
-* Portuguese and English Speaker 🌍
-* Deutsche Sprache 🔜
-* Power BI Lover 💛
-* Studying Python, SQL, Big Data, R, Tableau  📊
-* Yuumi Main 😸
+<div align="center">
+<a href="https://github.com/Sissaz" > <img width="45%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709600366663/titulo.png" /></a>
+ 
+<a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
+</div>
+
+<div align="center">
+ <a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970903095854895114/bio.png" /></a>
+</div>
+ </div>
 
 <div align="center">
  
@@ -35,10 +32,14 @@
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat&label=Profile+Views)
+ </div>
  
-</div>
 <div align="center">
-  
+ <a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
+</div>
+
+<div align="center">
+ 
  
  ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
