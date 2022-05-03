@@ -32,7 +32,7 @@
   
 <div align="center">
   
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sissaz.visitor-badge)
+![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat)
  
 </div>
 <div align="center">
