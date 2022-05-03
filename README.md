@@ -7,9 +7,13 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970903095854895114/bio.png" /></a>
+ <a href="https://github.com/Sissaz" > <img width="55%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970913396247629874/bio.png" /></a>
 </div>
- </div>
+<div align="center">
+ <a href="https://github.com/Sissaz" > <img width="30%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
+</div>
+
+</div>
 
 <div align="center">
  
