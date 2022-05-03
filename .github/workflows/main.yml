@@ -30,7 +30,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake-white.svg?palette=github-light
-            dist/github-contribution-grid-snake-sissa.svg?color_snake=#fa7f72&color_dots=#161b22,#B5EAEA,#EDF6E5,#FFBCBC,#F38BA0
+            dist/github-contribution-grid-snake-sissa.svg?color_snake=#f090bb&color_dots=#161b22,#f4c5dd,#c9f5f7,#93ece9,#bcbef1
+            dist/github-contribution-grid-snake-sissa-white.svg?color_snake=#f090bb&color_dots=#161b22,#f4c5dd,#c9f5f7,#93ece9,#bcbef1
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
