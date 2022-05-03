@@ -38,7 +38,7 @@
 <div align="center">
   
  
- ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-white.svg#gh-light-mode-only)
   
 </div>
