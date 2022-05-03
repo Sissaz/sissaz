@@ -32,7 +32,7 @@
   
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat)
+![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat&label=Profile+Views)
  
 </div>
 <div align="center">
