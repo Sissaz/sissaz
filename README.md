@@ -42,7 +42,7 @@
 <div align="center"> 
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971217076788277248/yuumi.png" /></a>
  
-<a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="40%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971227319983308861/dots.png" /></a>
 </div> 
  
 <div align="center">
