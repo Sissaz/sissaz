@@ -28,10 +28,10 @@
 
 <div align="center">
  
-<img height="100rem" width="304px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true&hide=contribs,issues,prs"/>
+<img height="100rem" width="304px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&theme=moltack&include_all_commits=true&count_private=true&hide=contribs,issues,prs"/>
  </div>
  <div align="center">
-<img height="100rem" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&theme=aura_dark"/>
+<img height="100rem" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&theme=moltack"/>
 
 </div>
     
