@@ -4,6 +4,7 @@
 <a href="https://github.com/Sissaz" > <img width="45%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709600366663/titulo.png" /></a>
  
 <a href="https://github.com/Sissaz" > <img width="15%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971207222648533072/divisor.png" /></a>
+ 
 </div>
 
 <div align="center">
@@ -33,18 +34,17 @@
 <img height="100rem" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&theme=aura_dark"/>
 
 </div>
-  
-
-  
+    
 <div align="center">
  
 ![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat&label=Profile+Views)
- </div>
- 
-<div align="center">
- <a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
 </div>
-
+<div align="center"> 
+<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971217076788277248/yuumi.png" /></a>
+ 
+<a href="https://github.com/Sissaz" > <img width="35%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709810077696/divisor.png" /></a>
+</div> 
+ 
 <div align="center">
  
  
