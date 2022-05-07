@@ -27,9 +27,9 @@
 <br>
 
 <div align="center">
- <img height="200rem" width="350px" src="https://github-readme-stats.vercel.app/api?username=sissaz&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues,prs&border_color=323232&bg_color=FAF2DA&text_color=323232&icon_color=FF7171&title_color=000000&custom_title=GitHub Stats ⭐&line_height=40"/>
-<img height="200rem" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sissaz&layout=compact&langs_count=7&border_color=323232&bg_color=FAF2DA&text_color=323232&icon_color=FF7171&title_color=000000&custom_title=Most Used Languages"/>
 
+ 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sissaz&theme=solarized)
 </div>
     
 <div align="center">
