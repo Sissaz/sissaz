@@ -34,7 +34,7 @@
     
 <div align="center">
  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sissaz.visitor-badge&left_color=pink&right_color=LightBlue&left_text=Profile%20Views)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sissaz.visitor-badge&left_color=pink&right_color=Blue&left_text=Profile%20Views)
  
 </div>
 <div align="center"> 
