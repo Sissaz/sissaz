@@ -34,7 +34,8 @@
     
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=Sissaz&color=fa7f72&style=flat&label=Profile+Views)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Sissaz.visitor-badge&left_color=pink&right_color=LightBlue&left_text=Profile%20Views)
+ 
 </div>
 <div align="center"> 
 <a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971217076788277248/yuumi.png" /></a>
