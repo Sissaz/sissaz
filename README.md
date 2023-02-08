@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
- <a href="https://github.com/Sissaz" > <img width="70%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970916166694490182/bio.png" /></a>
+ <a href="https://github.com/Sissaz" > <img width="100%"  src="https://cdn.discordapp.com/attachments/589442956021465142/1073027877064409158/Data_Analyst_Jr_AutoGlass_DataViz_SQL__Python_Power_BI__Tableau_2.png" /></a>
 </div>
 <br />
 <div align="center">
