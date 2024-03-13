@@ -11,7 +11,7 @@
 - Data flow management with Azure Data Factory; 
 - Dashboard creation in Power BI and Tableau;
 - Soft skills for working in multidisciplinary teams.
-- 
+
  <div align="center">
 <a href="https://github.com/Sissaz" > <img width="15%"  src="https://github.com/Sissaz/imagem/blob/main/divisor.png?raw=true" /></a>
  
