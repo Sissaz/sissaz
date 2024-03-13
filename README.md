@@ -8,8 +8,10 @@
 - Analytical Engineer/Data Analyst with 3 years of experience in the data field, with knowledge in architecture and load processes for DataLake; 
 - SQL for developing refined tables with business rules for consumption in Azure Databricks and Snowflake; 
 - PySpark/Data Factory for data extraction via external APIs, with data ingestion into the Data Lake; 
-- Data flow management with Azure Data Factory; and dashboard creation in Power BI and Tableau. 
+- Data flow management with Azure Data Factory; 
+- Dashboard creation in Power BI and Tableau;
 - Soft skills for working in multidisciplinary teams.
+- 
  <div align="center">
 <a href="https://github.com/Sissaz" > <img width="15%"  src="https://github.com/Sissaz/imagem/blob/main/divisor.png?raw=true" /></a>
  
