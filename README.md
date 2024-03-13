@@ -1,9 +1,17 @@
 <br />
 
 <div align="center">
-<a href="https://github.com/Sissaz" > <img width="45%"  src="https://cdn.discordapp.com/attachments/589442956021465142/970899709600366663/titulo.png" /></a>
- 
-<a href="https://github.com/Sissaz" > <img width="15%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971207222648533072/divisor.png" /></a>
+
+<a href="https://github.com/Sissaz" > <img width="35%"  src="https://github.com/Sissaz/imagem/blob/main/titulo.png?raw=true" /></a>
+</div>
+
+- Analytical Engineer/Data Analyst with 3 years of experience in the data field, with knowledge in architecture and load processes for DataLake; 
+- SQL for developing refined tables with business rules for consumption in Azure Databricks and Snowflake; 
+- PySpark/Data Factory for data extraction via external APIs, with data ingestion into the Data Lake; 
+- Data flow management with Azure Data Factory; and dashboard creation in Power BI and Tableau. 
+- Soft skills for working in multidisciplinary teams.
+ <div align="center">
+<a href="https://github.com/Sissaz" > <img width="15%"  src="https://github.com/Sissaz/imagem/blob/main/divisor.png?raw=true" /></a>
  
 </div>
 
@@ -11,9 +19,8 @@
 </div>
 <div align="center">
 <br>
-      <a href="https://www.linkedin.com/in/Siciliag" target="_blank"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/971205458033528872/linkedin.png" target="_blank"></a> 
-      <a href = "mailto:siciiliagiacomazza@gmail.com"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/971205988327780412/gmail.png" target="_blank"></a>
-  <a href="https://instagram.com/sissagz" target="_blank"><img width="20%" src="https://cdn.discordapp.com/attachments/589442956021465142/971204480806830080/instagram.png" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/Siciliag" target="_blank"><img width="20%" src="https://github.com/Sissaz/imagem/blob/main/linkedins.png?raw=true" target="_blank"></a> 
+      <a href = "mailto:siciiliagiacomazza@gmail.com"><img width="20%" src="https://github.com/Sissaz/imagem/blob/main/gmail.png?raw=true" target="_blank"></a>
 
 <br />
 <br>
@@ -25,9 +32,9 @@
  
 </div>
 <div align="center"> 
-<a href="https://github.com/Sissaz" > <img width="25%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971217076788277248/yuumi.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="25%"  src="https://github.com/Sissaz/imagem/blob/main/yuumi.png?raw=true" /></a>
  
-<a href="https://github.com/Sissaz" > <img width="40%"  src="https://cdn.discordapp.com/attachments/589442956021465142/971227319983308861/dots.png" /></a>
+<a href="https://github.com/Sissaz" > <img width="40%"  src="https://github.com/Sissaz/imagem/blob/main/dots.png?raw=true" /></a>
 </div> 
  
 <div align="center">
