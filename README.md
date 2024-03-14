@@ -1,8 +1,9 @@
 <br />
 
 <div align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F090BB&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sicilia!+;Analytics+Engineer+and+Data+Analyst)](https://git.io/typing-svg)
 
-<a href="https://github.com/Sissaz" > <img width="35%"  src="https://github.com/Sissaz/imagem/blob/main/titulo.png?raw=true" /></a>
 </div>
 
 - Analytical Engineer/Data Analyst with 3 years of experience in the data field, with knowledge in architecture and load processes for DataLake; 
