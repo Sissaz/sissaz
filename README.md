@@ -28,7 +28,7 @@
 <div align="center"> 
 <a href="https://github.com/Sissaz"><img width="40%" src="https://github.com/Sissaz/imagem/blob/main/dots.png?raw=true" /></a>
 </div> 
- 
+
 <div align="center">
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Sissaz/Sissaz/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
