@@ -1,4 +1,4 @@
-name: snake game from a github user contributions graph
+name: snake
 
 on:
   # run automatically at 0 o'clock
