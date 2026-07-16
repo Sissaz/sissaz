@@ -4,14 +4,11 @@
 
 </div>
 
-- Analytics Engineer/Data Analyst with 3 years of experience in the data field.
-- Skilled in architecture and load processes for DataLake.
-- Proficient in SQL for developing refined tables with business rules for Azure Databricks and Snowflake.
-- Experienced in PySpark/Data Factory for data extraction via external APIs and data ingestion into Data Lake.
-- Adept at managing data flow with Azure Data Factory.
-- Capable of creating dashboards in Power BI and Tableau.
-- Soft skills for working in multidisciplinary teams.
+<div align="center">
+<code>Data Analyst & Data Viz lover. I design in Figma, build in Power BI/Tableau, and back it all with SQL + Python.</code>
+</div>
 
+<br>
 <div align="center">
 <a href="https://github.com/Sissaz"><img width="15%" src="https://github.com/Sissaz/imagem/blob/main/divisor.png?raw=true" /></a>
 </div>
@@ -19,7 +16,6 @@
 <div align="center">
 <br>
 <a href="https://www.linkedin.com/in/Siciliag" target="_blank"><img width="20%" src="https://github.com/Sissaz/imagem/blob/main/linkedins.png?raw=true"></a> 
-<a href="mailto:siciiliagiacomazza@gmail.com"><img width="20%" src="https://github.com/Sissaz/imagem/blob/main/gmail.png?raw=true"></a>
 <br />
 
 <div align="center"> 
